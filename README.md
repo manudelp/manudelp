@@ -9,8 +9,7 @@
 ---
 
 ## 🏆 Last Achievements:
-![Blockchain Basic Course Certification](https://drive.google.com/uc?export=view&id=1vgaz8ATtJ4nQXyNSx9y_Rh6eI57xwCZ_)
-
+<img src="https://drive.google.com/uc?export=view&id=1vgaz8ATtJ4nQXyNSx9y_Rh6eI57xwCZ_" alt="Blockchain Basics" width="500" height="500">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-delpino/)  
 
