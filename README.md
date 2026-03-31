@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working as a **Frontend Developer** at **ALOT**, building responsive and user-friendly web applications.  
+🔭 I’m currently working as a **Full Stacl Developer** and **Data Engineer** at **PwC Acceleration Centers**, building responsive and user-friendly web applications.  
 👯 I’m looking to collaborate on **React.js**, **TypeScript**, and **Web 3.0** projects focused on scalable and innovative solutions.  
 🤝 I’m exploring **backend development** with **Node.js** and learning **Solidity** to enter the Blockchain space.  
 🌱 I’m currently improving my skills in **TypeScript**, **modern web practices**, and all things related to **Blockchain development**.  
-💬 Ask me about **JavaScript**, **responsive web design**, or **collaborative development**.  
+💬 Ask me about **JavaScript/TypeScript**, **responsive web design**, or **collaborative development**.  
 ⚡ Fun fact: I enjoy solving complex coding challenges and building elegant solutions with a team-oriented approach.  
 
 ---
